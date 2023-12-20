@@ -5,7 +5,7 @@
       "bundler": "metro"
     },
     "plugins": [
-      "expo-router"
+      // Remove "expo-router" from here
     ],
     "name": "job-portal",
     "slug": "job-portal"
